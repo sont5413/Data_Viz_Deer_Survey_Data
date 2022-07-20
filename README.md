@@ -2,11 +2,11 @@
 
 
 #### Figure 1. Estimated deer density (acres per deer) at four military training sites in Texas between 2007 and 2021.  The optimal deer density for this region of Texas (15 acres/deer) is represented by a horizontal line.
-![image](https://user-images.githubusercontent.com/95881308/179097714-b0b64a36-6ae8-43b8-bbf8-9f03ecb779f5.png)
+![image](https://user-images.githubusercontent.com/95881308/180097321-b07912c5-665d-472c-88b7-2adee54c086a.png)
 
 #### Figure 2. Estimated Buck to Doe ratio at four military training sites in Texas between 2007 and 2021.  The optimal buck to doe ratio is 1.0 and is represented by a horizontal line.
-![image](https://user-images.githubusercontent.com/95881308/179098076-713689e1-9e88-4076-a5e5-9b1ce700198f.png)
+![image](https://user-images.githubusercontent.com/95881308/180097329-d6546134-c34a-4ab2-b1b2-7e3ee70f9b7f.png)
 
 #### Figure 3. Estimated Fawn to Doe ratio at four military training sites in Texas between 2007 and 2021.  An excellent fawn to doe ratio is 1.0 and is represented by a horizontal line.
-![image](https://user-images.githubusercontent.com/95881308/179098087-43ffa255-f0ad-4806-89e9-940958627b92.png)
+![image](https://user-images.githubusercontent.com/95881308/180097340-0ed3bba7-6b35-4977-bb62-73e39e848be9.png)
 
