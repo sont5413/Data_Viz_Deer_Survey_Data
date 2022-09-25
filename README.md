@@ -1,7 +1,7 @@
 ## I assessed deer density and demographic trends from spotlight survey data collected between 2007 and 2021.
 
 
-#### Figure 1. Estimated deer density (acres per deer) at four military training sites in Texas between 2007 and 2021.  The optimal deer density for this region of Texas (15 acres/deer) is represented by a horizontal line.
+#### Figure 1. Estimated deer density (acres per deer) at four military training sites in Texas between 2007 and 2021.  The optimal deer density for these regions of Texas is 15 acres/deer and is represented by a horizontal line.
 ![image](https://user-images.githubusercontent.com/95881308/180097321-b07912c5-665d-472c-88b7-2adee54c086a.png)
 
 #### Figure 2. Estimated Buck to Doe ratio at four military training sites in Texas between 2007 and 2021.  The optimal buck to doe ratio is 1.0 and is represented by a horizontal line.
