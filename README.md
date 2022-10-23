@@ -1,5 +1,7 @@
-## I assessed deer density and herd composition trends from spotlight survey data collected between 2007 and 2022.
+![image](https://user-images.githubusercontent.com/95881308/197414710-269af222-4655-49b4-8100-c58f23e4cd53.png)
 
+
+## I assessed deer density and herd composition trends from spotlight survey data collected between 2007 and 2022.
 
 #### Figure 1. Estimated deer density (acres per deer) at four military training sites in Texas between 2007 and 2022.  A management goal for these herds is to maintain deer densities between 10 and 20 acres per deer, which is represented by the red shaded area.
 ![image](https://user-images.githubusercontent.com/95881308/194447278-e269791f-9084-451b-b7fa-ade77108d64f.png)
